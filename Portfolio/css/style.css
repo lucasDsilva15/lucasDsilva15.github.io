@@ -1,0 +1,141 @@
+        *{
+        	-webkit-box-sizing:  border-box;
+        	-moz-box-sizing: border-box;
+        	box-sizing: border-box;
+        	margin: 3px;
+        	padding: 3px;
+
+        }
+       
+       	
+       
+         body{
+        	background-color: lightgray;
+        	 font-family: cursive; 
+        	 text-align: center;
+        	 margin-top: 200px;
+
+        }
+        	.header{
+        		position: fixed;
+        		color: aquamarine; 
+			font-size: 20px;
+			background-color: #333;
+			top: -9px;
+			width: 100%;
+			text-overflow: hidden;
+			overflow: hidden;
+			z-index: 1000;
+			
+		}
+        	#header2{
+        		font-size: 25px;
+			padding-top: 10px;
+			padding-bottom: 10px;
+        		
+        }
+
+		h5{
+			font-size: 30px;
+			font-style: italic;
+	
+		}
+		
+		p{
+			font-size: 18px;
+			display: inline-block;
+		}
+
+		nav{
+			padding: 10px; 
+			background-color: black;
+		}
+		ul{
+			font-style: italic;  
+			list-style-position:inside;
+			padding: ;
+
+		}
+		a{
+			color: mediumpurple;
+		}
+		span{
+			font-size: 80px;
+		}
+		
+		form{
+			 background-color: white; 
+			 border-style: solid; 
+			 font-weight: 900px; 
+			 width: 500px; 
+			 display: inline-block;
+			 position: relative;
+			 top: 5px;
+		}
+		input[type=button]{
+			color: white;
+			background-color: black;
+			padding: 4px;
+			box-shadow: 0 .3em gray;
+			border-radius: .6em;
+
+		}
+		input[type=button]:hover{
+			Border: solid;
+			background-color: limegreen;
+			cursor: pointer;
+			border-color: gray;
+
+		}
+		.main{
+			position: relative;
+			max-width: 800px;
+			margin: 0 auto;
+			padding-top: 10px;
+			display: block;
+			bottom: 10px;
+
+
+		}
+		#menuitem{
+			Padding: 10px;
+			display: inline-block;
+		}
+		#discordparagraph{
+			font-style: italic;
+			font-size: 24px;
+
+		}
+	
+		.tattooexplanation{
+			font-size: 18px;
+			text-align: center;
+			max-width: 850px;
+			margin: 0 auto;
+			display: inline-block;
+			position: relative;
+			bottom: 10px;
+			padding-top: 5px;
+		}
+		.tattootable{
+			margin-left: auto;
+			margin-right: auto;
+		}
+		.video{
+			display: inline;
+
+		}
+		#picture{
+			border-radius: 50%;
+
+		}
+
+		.tattoos{
+			float: left;
+			width: 49%;
+			padding: 20px;
+
+		}
+
+
+	
